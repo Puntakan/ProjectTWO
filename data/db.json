@@ -1,0 +1,95 @@
+{
+  "history": [
+    {
+      "numbers": [
+        143
+      ],
+      "customer": "Member",
+      "subTotal": 143,
+      "discount": 5,
+      "total": 143,
+      "dateTime": "4/2/2023, 9:03:08 PM",
+      "id": 1
+    },
+    {
+      "numbers": [
+        9000
+      ],
+      "customer": "Guest",
+      "subTotal": 9000,
+      "discount": 0,
+      "total": 9000,
+      "dateTime": "4/2/2023, 9:11:17 PM",
+      "id": 2
+    },
+    {
+      "numbers": [
+        100000,
+        324234,
+        435345,
+        546456,
+        567567,
+        34534,
+        456456,
+        657567
+      ],
+      "customer": "Member",
+      "subTotal": 3122159,
+      "discount": 30,
+      "total": 2185511.3,
+      "dateTime": "4/2/2023, 11:10:31 PM",
+      "id": 3
+    },
+    {
+      "numbers": [
+        20,
+        435,
+        546,
+        56
+      ],
+      "customer": "Member",
+      "subTotal": 1057,
+      "discount": 20,
+      "total": 845.6,
+      "dateTime": "4/2/2023, 11:18:11 PM",
+      "id": 4
+    },
+    {
+      "numbers": [
+        70,
+        56,
+        567
+      ],
+      "customer": "Member",
+      "subTotal": 693,
+      "discount": 10,
+      "total": 623.7,
+      "dateTime": "4/2/2023, 11:19:35 PM",
+      "id": 5
+    },
+    {
+      "numbers": [
+        1500
+      ],
+      "customer": "Member",
+      "subTotal": 1500,
+      "discount": 20,
+      "total": 1200,
+      "dateTime": "4/2/2023, 11:38:41 PM",
+      "id": 6
+    },
+    {
+      "numbers": [
+        741,
+        514,
+        5225
+      ],
+      "customer": "Guest",
+      "subTotal": 6480,
+      "discount": 0,
+      "total": 6480,
+      "dateTime": "4/2/2023, 11:42:25 PM",
+      "id": 7
+    }
+  ]
+}
